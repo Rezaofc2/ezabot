@@ -1,0 +1,2 @@
+# ezabot
+public
